@@ -4,5 +4,5 @@ function boardMembers(name,homestate,training){
   this.training = training
 
 
-  
+
 }
