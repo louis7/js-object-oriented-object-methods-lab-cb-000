@@ -1,8 +1,6 @@
-function BoardMembers(name,homestate,training){
+function BoardMembers(name,homeState,training){
   this.name = name
-  this.homeState = homestate
+  this.homeState = homeState
   this.training = training
-
-
 
 }
